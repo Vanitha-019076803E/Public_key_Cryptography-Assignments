@@ -1,6 +1,6 @@
 # Public_key_Cryptography-Project
 
-I have committed my final project of the course Public Key Cryptography done in C language.
+I have committed my final project done in group of three members in C language.
 
 Project: Bignumber library and RSA Implementation
   
