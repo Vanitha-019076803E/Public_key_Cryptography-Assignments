@@ -1,11 +1,28 @@
-# Public_key_Cryptography-assignments
+# Public_key_Cryptography-Project
 
-I have committed all my classroom assignments of the course Public Key Cryptography done in Python language.
+I have committed my final project of the course Public Key Cryptography done in C language.
 
-Assignemnts:
-  1. Euclid’s Algorithm, Decomposition, Multiplicative inverse, Chinese Remainder, Euler function, Carmichael numbers
-  2. Computing with Large Integers
-  3. Implementation of RSA
-  4. Implementation of attacks against RSA
-  5. Attacks agains RSA signatures
-  6. Big number library and RSA implementation
+Project: Bignumber library and RSA Implementation
+  
+  The goal is to implement a big number library in C, and to implement the RSA
+  algorithm on top of it. 
+  
+  Functions implemented:
+    1. String to bignumber
+    2. Addition
+    3. Subtraction
+    4. Multiplication
+    5. Remainder
+    6. Modular addition
+    7. Modular multiplication
+    8. Modular exponentiation
+    9. Fermat test
+    10.Generate a random number
+    11.Generate a random prime number
+    
+  RSA Implementation:
+    RSA implementation had been done With the functions mentioned above (big number library)
+      1. KeyGeneration
+      2. RSA Encryption
+      3. RSA Decryption
+      4. RSA Testing
