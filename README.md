@@ -1,6 +1,6 @@
 # Public_key_Cryptography-assignments
 
-I have committed all my classroom assignemnts of the course Public Key Cryptography done in Python language.
+I have committed all my classroom assignments of the course Public Key Cryptography done in Python language.
 
 Assignemnts:
   1. Euclid’s Algorithm, Decomposition, Multiplicative inverse, Chinese Remainder, Euler function, Carmichael numbers
