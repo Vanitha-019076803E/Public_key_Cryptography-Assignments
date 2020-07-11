@@ -8,6 +8,7 @@ Project: Bignumber library and RSA Implementation
   algorithm on top of it. 
   
   Functions implemented:
+  
     1. String to bignumber
     2. Addition
     3. Subtraction
@@ -21,7 +22,9 @@ Project: Bignumber library and RSA Implementation
     11.Generate a random prime number
     
   RSA Implementation:
+  
     RSA implementation had been done With the functions mentioned above (big number library)
+    
       1. KeyGeneration
       2. RSA Encryption
       3. RSA Decryption
