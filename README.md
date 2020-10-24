@@ -23,7 +23,7 @@ Project: Bignumber library and RSA Implementation
     
   RSA Implementation:
   
-    RSA implementation had been done With the functions mentioned above (big number library)
+    RSA implementation has been done With the functions mentioned above (big number library)
     
       1. KeyGeneration
       2. RSA Encryption
